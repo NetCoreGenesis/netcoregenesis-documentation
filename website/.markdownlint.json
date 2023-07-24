@@ -1,0 +1,16 @@
+{
+  "default": true,
+  "spaces": true,
+  "whitespace": true,
+  "blank_lines": true,
+  "indentation": true,
+  "line-length": false,
+  "heading-style": false,
+  "blanks-around-lists": false,
+  "no-multiple-blanks": true,
+  "no-hard-tabs": false,
+  "no-trailing-punctuation": false,
+  "no-bare-urls": false,
+  "no-inline-html": false,
+  "no-blanks-blockquote": false
+}

@@ -1,0 +1,256 @@
+{
+  "version-3.22.0/docs": [
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "Before We Start",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-3.22.0/What_is_Net_Core_Genesis"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Prerequisites"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Software_Architecture"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Future_Vision"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "Getting Started",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Direct_Download_as_Boilerplate"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Download_CLI_Solution_Generator"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Using_CLI_Solution_Generator"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Running_Your_Web_Application"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Tutorial"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "General",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-3.22.0/API_Layer"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Authentication_Authorization"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Blockchain"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Built_in_UI_Components"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/CLI_Commands"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Communication"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Configuration"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Data_Access"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Demo_and_Live_Preview"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Distributed_Cache"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Elastic_Stack"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Exception_Handling"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Folder_Structures"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Fundamentals"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Genesis_Database"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Grid_Table"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/JSON_Based_UI_Screen_Rendering"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Localization"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Logging"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Management_Module"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Microservice_Architecture"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Multi_Tenancy"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Queuing_and_Message_Broker"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Sample_Page"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Scheduler_and_Background_Jobs"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Workflow"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/ECommerce_Module"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "FAQ",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Security"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Custom_UI_Pages"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/FAQ_About_Backend"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/FAQ_About_UI"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Useful_Documents"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "Server & System",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Server_Requirements"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Server_Setup_Deployment"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Deployment"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/DevOps_Dockerization"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Performance_Scalability"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/CI_CD_Management"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "Other",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Third_Party_Licences"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/BaGet_Installation"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/Reporting"
+        },
+        {
+          "type": "doc",
+          "id": "version-3.22.0/CDC_ChangeDataCapture"
+        }
+      ]
+    }
+  ]
+}

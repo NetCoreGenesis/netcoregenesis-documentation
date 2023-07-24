@@ -1,0 +1,248 @@
+{
+  "version-Legacy/docs": [
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "Before We Start",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-Legacy/What_is_Net_Core_Genesis"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Prerequisites"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Software_Architecture"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Future_Vision"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "Getting Started",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-Legacy/Direct_Download_as_Boilerplate"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Download_CLI_Solution_Generator"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Using_CLI_Solution_Generator"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Running_Your_Web_Application"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Tutorial"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "General",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-Legacy/API_Layer"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Authentication_Authorization"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Blockchain"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Built_in_UI_Components"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/CLI_Commands"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Communication"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Configuration"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Data_Access"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Demo_and_Live_Preview"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Distributed_Cache"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Elastic_Stack"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Exception_Handling"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Folder_Structures"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Fundamentals"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Genesis_Database"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Grid_Table"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/JSON_Based_UI_Screen_Rendering"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Localization"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Logging"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Management_Module"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Microservice_Architecture"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Multi_Tenancy"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Queuing_and_Message_Broker"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Sample_Page"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Scheduler_and_Background_Jobs"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Workflow"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "FAQ",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-Legacy/Security"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Custom_UI_Pages"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/FAQ_About_Backend"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/FAQ_About_UI"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Useful_Documents"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "Server & System",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-Legacy/Server_Requirements"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Server_Setup_Deployment"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Deployment"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/DevOps_Dockerization"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Performance_Scalability"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/CI_CD_Management"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "collapsed": true,
+      "collapsible": true,
+      "label": "Other",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-Legacy/Third_Party_Licences"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/BaGet_Installation"
+        },
+        {
+          "type": "doc",
+          "id": "version-Legacy/Reporting"
+        }
+      ]
+    }
+  ]
+}

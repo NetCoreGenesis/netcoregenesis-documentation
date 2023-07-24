@@ -1,0 +1,68 @@
+{
+  "docs": {
+    "Before We Start": [ 
+                        "What_is_Net_Core_Genesis", 
+                        "Prerequisites", 
+                        "Software_Architecture",
+                        "Future_Vision"
+                      ],
+    "Getting Started": [
+                        "Direct_Download_as_Boilerplate", 
+                        "Download_CLI_Solution_Generator",
+                        "Using_CLI_Solution_Generator",
+                        "Running_Your_Web_Application",
+                        "Tutorial"
+                      ],
+    "General": [
+            "API_Layer", 
+            "Authentication_Authorization", 
+            "Blockchain", 
+            "Built_in_UI_Components",
+            "CLI_Commands",
+            "Communication",
+            "Configuration",
+            "Data_Access",
+            "Demo_and_Live_Preview",
+            "Distributed_Cache",
+            "Elastic_Stack",
+            "Exception_Handling",
+            "Folder_Structures",
+            "Fundamentals",
+            "Genesis_Database",
+            "Grid_Table",
+            "JSON_Based_UI_Screen_Rendering",
+            "Localization",
+            "Logging",
+            "Management_Module",
+            "Microservice_Architecture",
+            "Multi_Tenancy",
+            "Queuing_and_Message_Broker",
+            "Sample_Page",
+            "Scheduler_and_Background_Jobs",
+            "Workflow",
+            "ECommerce_Module"
+          ],
+    "FAQ": [
+            "Security",
+            "Custom_UI_Pages",
+            "FAQ_About_Backend", 
+            "FAQ_About_UI",
+            "Useful_Documents"
+          ],
+    "Server & System": [
+              "Server_Requirements",
+              "Server_Setup_Deployment",
+              "Deployment",
+              "DevOps_Dockerization",
+              "Performance_Scalability",
+              "CI_CD_Management"
+            ],
+    "Other": [
+            "Third_Party_Licences",
+            "BaGet_Installation",
+            "Reporting",
+            "Monitoring",
+            "CDC_ChangeDataCapture"
+          ]
+  }
+}

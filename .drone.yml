@@ -1,0 +1,51 @@
+kind: pipeline
+name: default
+
+steps:
+  - name: ui-build
+    image: node:16.14.0
+    commands:
+      - node -v
+      - yarn --version
+      - cd website
+      - echo '***** Clean First *********'
+      - rm -rf node_modules/ & rm -rf yarn.lock
+      - echo '***** UI Node_Modules Install *****'
+      - yarn install
+      - echo '***** UI Build *********'
+      - yarn build
+      - echo '***** Current Directory *****'
+      - cd build/docs
+#      - cp index.html  ../index.html # overwrite index.html
+#      - cp ./static/css/code-block-buttons.css ./build/css/code-block-buttons.css # copy css file
+      - cd ../../ # website
+      - ls -la
+
+  - name: secure-copy
+    image: appleboy/drone-scp
+    settings:
+      host: 94.237.80.209
+      username: root
+      password:
+        from_secret: ssh_password
+      port: 22
+      strip_components: 4 # to strip 4 level of /drone/src/website/build
+      rm: true
+      target: /var/www/documentation
+      source: /drone/src/website/build
+
+  - name: notification
+    image: drillster/drone-email
+    settings:
+      host: smtp.yandex.com
+      port: 465
+      skip_verify: true
+      username: build-agent@netcoregenesis.com
+      password:
+        from_secret: email_password
+      from: build-agent@netcoregenesis.com
+      recipients:
+        - mustafa@icredible.com
+    when:
+      status:
+        - failure

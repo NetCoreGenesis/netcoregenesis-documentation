@@ -1,0 +1,31 @@
+.navbar__logo {
+  height: 185%;
+}
+
+.navbar {
+  background-color: #ff0505;
+}
+
+:root {
+  --ifm-color-primary-lightest: #ff4d4d;
+  --ifm-color-primary-lighter: #ff2626;
+  --ifm-color-primary-light: #ff1a1a;
+  --ifm-color-primary: red;
+  --ifm-color-primary-dark: #e60000;
+  --ifm-color-primary-darker: #d90000;
+  --ifm-color-primary-darkest: #b30000;
+}
+
+.navbar {
+  /* --ifm-navbar-background-color: #ff0505; */
+  --ifm-navbar-link-color: var(--ifm-color-gray-0);
+  --ifm-navbar-link-hover-color: var(--ifm-color-primary-contrast-background);
+}
+
+.footer {
+  --ifm-footer-background-color: var(--ifm-color-gray-900);
+}
+
+/* html[data-theme='dark'] {
+  Theme overrides
+} */
