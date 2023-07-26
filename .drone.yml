@@ -3,13 +3,13 @@ name: default
 
 steps:
   - name: ui-build
-    image: node:16.14.0
+    image: node:16.18.0
     commands:
       - node -v
       - yarn --version
       - cd website
-      - echo '***** Clean First *********'
-      - rm -rf node_modules/ & rm -rf yarn.lock
+      #- echo '***** Clean First *********'
+      #- rm -rf node_modules/ & rm -rf yarn.lock
       - echo '***** UI Node_Modules Install *****'
       - yarn install
       - echo '***** UI Build *********'

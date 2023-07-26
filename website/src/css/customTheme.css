@@ -1,5 +1,11 @@
 .navbar__logo {
-  height: 185%;
+  --width: 107px;
+  --height: 32px;
+  --ratio: calc(var(--width) / var(--height));
+
+  --newHeight: 50px;
+  height: var(--newHeight);
+  width: calc(--ratio * --newHeight);
 }
 
 .navbar {

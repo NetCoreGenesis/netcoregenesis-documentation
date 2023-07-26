@@ -95,7 +95,8 @@ module.exports = {
       appId: "H8NW4FCKHE",
       apiKey: "dfc0fc5464e43f716aae56ae706ee7d5",
       // apiKey: "2c4678c8f347c62247fa1504393b96a9", // eski
-      indexName: "netcoregenesis",
+      indexName: "netcoregenesisdocs",
+      // indexName: "netcoregenesis", // eski
       algoliaOptions: {},
     },
     prism: {
