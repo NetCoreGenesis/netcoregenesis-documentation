@@ -46,6 +46,7 @@ steps:
       from: build-agent@netcoregenesis.com
       recipients:
         - mustafa@icredible.com
+        - ahmet.izgi@icredible.com
     when:
       status:
         - failure
