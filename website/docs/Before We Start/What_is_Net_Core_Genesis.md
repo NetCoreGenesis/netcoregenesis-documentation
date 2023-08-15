@@ -3,9 +3,10 @@ id: What_is_Net_Core_Genesis
 slug: /
 title: What is Net Core Genesis
 sidebar_label: What is Net Core Genesis
+sidebar_position: 1
 ---
 
-Net Core Genesis is not just a development framework or a boilerpate. It also includes a strong  **[Solution Generator](Using_CLI_Solution_Generator.md)** named AutoCode.
+Net Core Genesis is not just a development framework or a boilerpate. It also includes a strong **[Solution Generator](Using_CLI_Solution_Generator.md)** named AutoCode.
 
 It generates runnable code and projects for both backend and UI by scaffolding.
 

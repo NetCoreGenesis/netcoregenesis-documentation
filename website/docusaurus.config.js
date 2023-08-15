@@ -34,7 +34,7 @@ module.exports = {
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
           path: "docs",
-          sidebarPath: require.resolve("./sidebars.json"),
+          sidebarPath: require.resolve("./sidebars.js"),
           lastVersion: "current",
           versions: {
             current: {
@@ -94,10 +94,25 @@ module.exports = {
     algolia: {
       appId: "H8NW4FCKHE",
       apiKey: "dfc0fc5464e43f716aae56ae706ee7d5",
-      // apiKey: "2c4678c8f347c62247fa1504393b96a9", // eski
+      // apiKey: "2c4678c8f347c62247fa1504393b96a9", // old
       indexName: "netcoregenesisdocs",
-      // indexName: "netcoregenesis", // eski
+      // indexName: "netcoregenesis", // old
       algoliaOptions: {},
+      recordExtractor: ({ $, helpers }) => {
+        return helpers.docsearch({
+          /* recordProps: {
+            lvl0: {
+              selectors: "header h1",
+            },
+            lvl1: "article h2",
+            lvl2: "article h3",
+            lvl3: "article h4",
+            lvl4: "article h5",
+            lvl5: "article h6",
+            content: "article p, article li",
+          }, */
+          aggregateContent: true,
+        });
     },
     prism: {
       additionalLanguages: ["csharp"],
