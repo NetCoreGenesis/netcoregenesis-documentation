@@ -98,21 +98,11 @@ module.exports = {
       indexName: "netcoregenesisdocs",
       // indexName: "netcoregenesis", // old
       algoliaOptions: {},
-      recordExtractor: ({ $, helpers }) => {
-        return helpers.docsearch({
-          /* recordProps: {
-            lvl0: {
-              selectors: "header h1",
-            },
-            lvl1: "article h2",
-            lvl2: "article h3",
-            lvl3: "article h4",
-            lvl4: "article h5",
-            lvl5: "article h6",
-            content: "article p, article li",
-          }, */
-          aggregateContent: true,
-        });
+      safetyChecks: {
+        beforeIndexPublishing: {
+          maxLostRecordsPercentage: 100
+        }
+      }
     },
     prism: {
       additionalLanguages: ["csharp"],
