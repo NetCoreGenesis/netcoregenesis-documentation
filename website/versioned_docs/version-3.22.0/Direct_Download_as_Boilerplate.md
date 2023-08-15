@@ -10,6 +10,6 @@ There are 2 options to download the boilerplate:
 1) If you've a valid (not expired) Genesis account, you should have also been given access to [the repo](
 https://github.com/NetCoreGenesis/genesis-boilerplate) on the source code platform.
 
-2) [AutoCode Solution Generator](Using_CLI_Solution_Generator.md) can be used to download without generation from DB
+2) [AutoCode Solution Generator](Getting%20Started/Using_CLI_Solution_Generator.md) can be used to download without generation from DB
 
-> We recommend you to use [AutoCode Solution Generator](Using_CLI_Solution_Generator.md) to boost your development time.
+> We recommend you to use [AutoCode Solution Generator](Getting%20Started/Using_CLI_Solution_Generator.md) to boost your development time.

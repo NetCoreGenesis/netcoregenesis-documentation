@@ -153,4 +153,4 @@ Check current version of AutoCode Solution Generator
 
 If you get any error, that's probably you have an older version of the AutoCode Solution Generator working in your machine, causing mismatch between AutoCode Solution Generator and the latest project boilerplate.
 
-So check and download [AutoCode Solution Generator's current version](Download_CLI_Solution_Generator.md).
+So check and download [AutoCode Solution Generator's current version](Getting%20Started/Download_CLI_Solution_Generator.md).

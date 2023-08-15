@@ -205,7 +205,7 @@ docker-compose up -d elk
 
 These files need to include CORS exceptions for the genesis API endpoint URLs.
 
-> Check [Configuration](Configuration.md)
+> Check [Configuration](General/Configuration.md)
 
 ### Make sure that the environment is set according to the settings
 

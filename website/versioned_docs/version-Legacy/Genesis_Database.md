@@ -6,7 +6,7 @@ sidebar_label: Genesis Database
 ---
 
 Genesis database is the core database required for framework to run.
-> It will be created by [AutoCode Solution Generator](Using_CLI_Solution_Generator.md). So we strongly recommend creating your project by AutoCode Solution Generator instead of downloading the boilerplate at first hand.
+> It will be created by [AutoCode Solution Generator](Getting%20Started/Using_CLI_Solution_Generator.md). So we strongly recommend creating your project by AutoCode Solution Generator instead of downloading the boilerplate at first hand.
 
 | Table | Description |
 |--|--|

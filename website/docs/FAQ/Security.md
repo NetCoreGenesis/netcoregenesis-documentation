@@ -19,4 +19,4 @@ You can use free security checking tools such as OWASP's :
 - [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF "OWASP OWTF")
 - [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check "OWASP Dependency Check")
 
-> Also check & apply security instructions for [Distributed Cache Server](Distributed_Cache.md#secure-redis-server)
+> Also check & apply security instructions for [Distributed Cache Server](General/Distributed_Cache.md#secure-redis-server)

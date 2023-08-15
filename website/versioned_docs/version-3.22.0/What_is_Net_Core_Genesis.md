@@ -5,7 +5,7 @@ title: What is Net Core Genesis
 sidebar_label: What is Net Core Genesis
 ---
 
-Net Core Genesis is not just a development framework or a boilerpate. It also includes a strong  **[Solution Generator](Using_CLI_Solution_Generator.md)** named AutoCode.
+Net Core Genesis is not just a development framework or a boilerpate. It also includes a strong  **[Solution Generator](Getting%20Started/Using_CLI_Solution_Generator.md)** named AutoCode.
 
 It generates runnable code and projects for both backend and UI by scaffolding.
 
@@ -17,4 +17,4 @@ When it finishes, you'll have your 70-80% of your work already coded/developed i
 
 [Follow instructions for a good database structure](https://netcoregenesis.com/documents/Database_Instructions_For_Proper_Code_Generation.pdf)
 
-> We strongly recommend you to start by using [AutoCode Solution Generator](Using_CLI_Solution_Generator.md).
+> We strongly recommend you to start by using [AutoCode Solution Generator](Getting%20Started/Using_CLI_Solution_Generator.md).

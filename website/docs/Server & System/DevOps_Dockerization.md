@@ -5,7 +5,7 @@ title: DevOps & Dockerization
 sidebar_label: DevOps & Dockerization
 ---
 
-After [Solution generation](Using_CLI_Solution_Generator.md), `docker-compose.yml` is created in your parent folder to run the Redis, Kafka, Zookeeper, ELK, Generated Microservices, Genesis admin API, Identity Server and UI on Docker instances.
+After [Solution generation](Getting%20Started/Using_CLI_Solution_Generator.md), `docker-compose.yml` is created in your parent folder to run the Redis, Kafka, Zookeeper, ELK, Generated Microservices, Genesis admin API, Identity Server and UI on Docker instances.
 
 ## docker-compose.yml
 

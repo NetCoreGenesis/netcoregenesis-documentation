@@ -5,7 +5,7 @@ title: API Layer
 sidebar_label: API Layer
 ---
 
-If you generate your project by using [AutoCode Solution/Code Generator](Using_CLI_Solution_Generator.md), you'll have 6 methods ready for each controller.
+If you generate your project by using [AutoCode Solution/Code Generator](Getting%20Started/Using_CLI_Solution_Generator.md), you'll have 6 methods ready for each controller.
 
  1. list
  2. get

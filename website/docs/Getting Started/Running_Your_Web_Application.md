@@ -119,4 +119,4 @@ your_solution_generator_folder/Logs
 
 Check Genesis database’s **transactionLogs** table.
 
-> To deploy your projects on a web server, visit [Deployment](Deployment.md)
+> To deploy your projects on a web server, visit [Deployment](Server%20&%20System/Deployment.md)

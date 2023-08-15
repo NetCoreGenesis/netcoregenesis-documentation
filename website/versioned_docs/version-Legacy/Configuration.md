@@ -108,7 +108,7 @@ REACT_APP_KIBANA_URL=http://localhost:5601
 REACT_APP_SCHEDULER_URL=http://localhost:5001
 ```
 
-Check [Change domain and base URLs for services](FAQ_About_UI.md#domains-and-base-urls-for-services) for details.
+Check [Change domain and base URLs for services](FAQ/FAQ_About_UI.md#domains-and-base-urls-for-services.md) for details.
 
 > For setting another environment such as Staging, follow instructions at https://dev.to/jam3/managing-env-variables-for-provisional-builds-h37
 > - create `.env.staging`

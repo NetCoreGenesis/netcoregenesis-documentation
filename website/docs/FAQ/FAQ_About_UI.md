@@ -172,7 +172,7 @@ Find them in `src/common/typeConfig.ts`
    };
    ```
 
-> Check [Authentication & Authorization](Authentication_Authorization.md) for details.
+> Check [Authentication & Authorization](General/Authentication_Authorization.md) for details.
 
 ## Want to create a listing page without insert, update and delete
 
@@ -568,7 +568,7 @@ profilePicture: {
 },
 ```
 
-> Check also [How to manage FILE_UPLOADER's JSON data](FAQ_About_Backend.md#how-to-manage-and-save-file_uploaders-json-data)
+> Check also [How to manage FILE_UPLOADER's JSON data](FAQ/FAQ_About_Backend.md#how-to-manage-and-save-file_uploaders-json-data)
 
 ## Fill dropdown’s options asynchronously when typing
 

@@ -10,7 +10,7 @@ import TabItem from '@theme/TabItem';
 
 ## 1) Configuration
 
-Please review [Configuration Settings](Configuration.md) first for separate environments such as development and production.
+Please review [Configuration Settings](General/Configuration.md) first for separate environments such as development and production.
 
 ## 2) UI/Frontend Deployment (React App)
 

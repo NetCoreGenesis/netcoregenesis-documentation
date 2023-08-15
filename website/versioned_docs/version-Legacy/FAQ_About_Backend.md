@@ -46,16 +46,16 @@ public bool Delete(CoreCompany entity)
 
 ## Sending email and SMS
 
-Instead of lots of coding, we recommend using communication middleware via [Management / Communication](Communication.md)
+Instead of lots of coding, we recommend using communication middleware via [Management / Communication](General/Communication.md)
 
 ## Resource code and Action for authorization
 
-Please check all details in [Authentication & Authorization](Authentication_Authorization.md)
+Please check all details in [Authentication & Authorization](General/Authentication_Authorization.md)
 
 ## Logging
 
 There exists a comprehensive logging middleware.
-Please check all details in [Logging Middleware](Logging.md)
+Please check all details in [Logging Middleware](General/Logging.md)
 
 ## Exclude a model/class property from logging
 
@@ -78,7 +78,7 @@ public class User
 }
 ```
 
-> Please check all details in [Logging Middleware](Logging.md)
+> Please check all details in [Logging Middleware](General/Logging.md)
 
 ## Base classes
 
@@ -145,7 +145,7 @@ public LoggedInUser Login(LoggedInUser parameters)
 ## Exception Handling
 
 You don't need to handle  exceptions in most of the time.
-Solution adds  **exception handling middleware**, so you get nicely formatted exceptions. Check [Exception Handling](Exception_Handling) for more.
+Solution adds  **exception handling middleware**, so you get nicely formatted exceptions. Check [Exception Handling](General/Exception_Handling.md) for more.
 
 ## Caching
 
@@ -153,7 +153,7 @@ We use **Redis**  caching but you can use **in-memory** interchangeably with a s
 
 ## Enable Elastic Stack
 
-Check [Elastic Stack](Elastic_Stack.md) for further information.
+Check [Elastic Stack](General/Elastic_Stack.md) for further information.
 
 ## Extension methods for EF Core in repository
 
@@ -162,7 +162,7 @@ AddFilters, AddSortings, AddPagination, AddFiltersAndPagination, SelectExclusive
 
 ## Bulk/Batch transaction
 
-If you create your project via [AutoCode Solution Generator](Using_CLI_Solution_Generator.md), you'll get `BulkSave` method for all of your controllers. If you upload/import an excel file from UI, it'll be handled automatically.
+If you create your project via [AutoCode Solution Generator](Getting%20Started/Using_CLI_Solution_Generator.md), you'll get `BulkSave` method for all of your controllers. If you upload/import an excel file from UI, it'll be handled automatically.
 Thus, you won't need to struggle with tasks, threads, performance issues and so on.
 
 > If you go through boilerplate, you can find a sample in `Admin/AdminSvc/Controllers/UserController.cs`
@@ -269,7 +269,7 @@ Find `appsettings.Development.json` and `appsettings.Production.json` files. Ens
 
 > Consider adding your domain addresses instead of localhost on non-development environments.
 
-> For more app settings, check [Configuration](Configuration.md).
+> For more app settings, check [Configuration](General/Configuration.md).
 
 ## How to manage and save FILE_UPLOADER's JSON data
 
@@ -283,7 +283,7 @@ By default, posted data for upload components is a json as:
 }
 ```
 
-> Check [How to change posted data](FAQ_About_UI.md#change-file_uploaders-posted-data)
+> Check [How to change posted data](FAQ/FAQ_About_UI#change-file_uploaders-posted-data)
 
 In that case, you should add a serializer to `public partial class YourDBContextEx` which is in `YourMicroserviceName.DataLib`
 
