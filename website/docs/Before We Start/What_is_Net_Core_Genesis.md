@@ -18,4 +18,4 @@ When it finishes, you'll have your 70-80% of your work already coded/developed i
 
 [Follow instructions for a good database structure](https://netcoregenesis.com/documents/Database_Instructions_For_Proper_Code_Generation.pdf)
 
-> We strongly recommend you to start by using [AutoCode Solution Generator](Using_CLI_Solution_Generator.md).
+> We strongly recommend you to start by using [AutoCode Solution Generator](Getting%20Started/Using_CLI_Solution_Generator.md).
