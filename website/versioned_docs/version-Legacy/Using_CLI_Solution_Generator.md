@@ -14,7 +14,7 @@ Before continuing, please have a look at [our Presentation about AutoCode Soluti
 
 ## Prerequisites
 
- 1. Please check  **[\[Prerequisites\]](Prerequisites.md)**  section and complete them before continuing.
+ 1. Please check  **[\[Prerequisites\]](Before%20We%20Start/Prerequisites.md)**  section and complete them before continuing.
  2. Also remember that AutoCode Solution Generator uses **Database-First** approach to create your solution/project.
 
 ## Download CLI based AutoCode Solution Generator file using one of the links below according to your operating system
@@ -336,7 +336,7 @@ Find this useful [https://stackoverflow.com/questions/12774827/cant-connect-to-l
 
 ### Failed to create database
 
-You may need to install [EF Core Tools](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet) first. _(Please check [Prerequisites](Prerequisites.md))_
+You may need to install [EF Core Tools](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet) first. _(Please check [Prerequisites](Before%20We%20Start/Prerequisites.md))_
 
 ### Failed scaffolding
 

@@ -7,7 +7,7 @@ sidebar_label: Multi-Tenancy
 
 Multi-Tenant or Multi-Tenancy means that a single instance of the software and its supporting infrastructure serves multiple customers. Each customer shares the software application and also shares database/schema/table. Each tenant's data is isolated and remains invisible to other tenants.
 
-Net Core Genesis' default behaviour is [Table-based multitenancy](Multi_Tenancy.md#a-table-based-multitenancy-default-behaviour-of-genesis).
+Net Core Genesis' default behaviour is [Table-based multitenancy](General/Multi_Tenancy.md#a-table-based-multitenancy-default-behaviour-of-genesis).
 
 ## Switch to a Subtenant
 

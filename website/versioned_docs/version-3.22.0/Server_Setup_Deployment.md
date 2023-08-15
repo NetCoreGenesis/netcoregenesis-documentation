@@ -565,7 +565,7 @@ yarn build  # uses .env.production
 
 > A folder named `build` will be created
 
-To set an environment other than Development/Production (such as Staging), follow instructions at [UI Configuration](Configuration.md#3-ui) and run the build command as below:
+To set an environment other than Development/Production (such as Staging), follow instructions at [UI Configuration](General/Configuration.md#3-ui) and run the build command as below:
 
 ```
 yarn build:staging # uses .env.staging

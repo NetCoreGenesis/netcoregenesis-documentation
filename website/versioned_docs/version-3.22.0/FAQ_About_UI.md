@@ -134,7 +134,7 @@ You'll generally be dealing with 4 files for a page in `src` folder.
  4. `entities/{YourPageName}.ts` :
  JSON specifying components, groupings, rules, validations and so on.
 
-Check [Sample Page](Sample_Page.md) and [Custom Page](Custom_UI_Pages.md) for details.
+Check [Sample Page](General/Sample_Page.md) and [Custom Page](FAQ/Custom_UI_Pages.md) for details.
 
 ## Where are interfaces and enums used in JSON-based pages?
 

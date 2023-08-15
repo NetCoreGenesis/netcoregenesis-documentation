@@ -7,11 +7,11 @@ sidebar_label: Tutorial
 
 This tutorial below explains the basic files of both backend and frontend you need to add/edit for a page/process.
 
-> Click for [Folder Structure](Folder_Structures.md) of the projects
+> Click for [Folder Structure](General/Folder_Structures.md) of the projects
 
 ## Backend
 
-> Click for details of [Adding a New Backend Process Step By Step](Sample_Page.md#backend)
+> Click for details of [Adding a New Backend Process Step By Step](General/Sample_Page.md#backend)
 
 ### 1) DB Models
 
@@ -44,7 +44,7 @@ YourMicroserviceName.API.Controllers.{YourTableName}Controller.cs
 ## UI / Frontend
 
 You'll generally be dealing with 4 files in  `src`  folder for a standard page which you can manage easily with JSON objects without coding javascript or typescript.
-> Click for details of [Adding a New UI Page Step By Step](Sample_Page.md#ui--frontend)
+> Click for details of [Adding a New UI Page Step By Step](General/Sample_Page.md#ui--frontend)
 
 ### 1) Menu Item Component
 

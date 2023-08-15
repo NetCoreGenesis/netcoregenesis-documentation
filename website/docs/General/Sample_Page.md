@@ -403,7 +403,7 @@ var PageInfos = {
 **With Data**
 ![UI Sample Page with data](https://netcoregenesis.com/images/documentation/ui_final_page_with_data.png)
 
-> To form a customized UI page, check [Custom Page](Custom_UI_Pages.md) for details.
+> To form a customized UI page, check [Custom Page](FAQ/Custom_UI_Pages.md) for details.
 
 ## Backend
 
