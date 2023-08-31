@@ -96,7 +96,7 @@ Checking Dependencies...
 ✔  Docker (Optional)
 ✔  Docker Compose (Optional)
 ✔  git (Optional)
-✔  Node.js 10.14.0+ (Optional)   
+✔  Node.js >=10,<16 (Optional)   
 ```  
 _** Version numbers are representational. Please check [Prerequisites](Before%20We%20Start/Prerequisites.md)_
 

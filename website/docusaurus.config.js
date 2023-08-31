@@ -1,4 +1,4 @@
-const latestVersion = `3.23.0  🚀`;
+const latestVersion = `7.23.0  🚀`;
 
 module.exports = {
   title: "DOCUMENTATION",
