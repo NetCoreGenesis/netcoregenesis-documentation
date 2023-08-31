@@ -5,7 +5,7 @@ title: Distributed Cache
 sidebar_label: Distributed Cache
 ---
 
-**Redis Cache** is used for caching as distributed. Besides, .Net Core's **In-Memory Cache** can be used interchangeably with a slight effort.
+**Redis Cache** is used for caching as distributed. Besides, .NET's **In-Memory Cache** can be used interchangeably with a slight effort.
 
 > Redis is an open source, in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets and so on. For more visit [https://redis.io/](https://redis.io/)
 

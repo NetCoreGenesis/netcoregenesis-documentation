@@ -23,7 +23,7 @@ ssh username@ip_address
 When prompted, type your ssh password
 Or Connect by providing the generated SSH certificate
 
-### Install Net Core 3.1 LTS
+### Install .NET
 
 Follow instructions at [https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu](https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu)
 
@@ -43,7 +43,7 @@ sudo dpkg -i packages-microsoft-prod.deb
 sudo apt-get update; \
 sudo apt-get install -y apt-transport-https && \
 sudo apt-get update && \
-sudo apt-get install -y dotnet-sdk-3.1
+sudo apt-get install -y dotnet-sdk-7.0
 ```
 
 ### Install EF Core Tools
@@ -54,7 +54,7 @@ Follow instructions at [https://docs.microsoft.com/en-us/ef/core/miscellaneous/c
 dotnet tool install --global dotnet-ef
 ```
 
-> Since you've just installed the .NET Core SDK, you need to logout or restart your session before running
+> Since you've just installed the .NET SDK, you need to logout or restart your session before running
 
 You can invoke the tool using the following command:
 
@@ -62,7 +62,7 @@ You can invoke the tool using the following command:
 dotnet-ef Tool 'dotnet-ef' 
 ```
 
-### Install Nodejs
+### Install Node.js
 
 Follow instructions at [https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
 

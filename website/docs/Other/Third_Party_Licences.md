@@ -31,9 +31,9 @@ React is one of the many JavaScript frameworks and licensed under the **MIT** li
 
 https://github.com/facebook/react/blob/master/LICENSE
 
-## .Net Core
+## .NET
 
-.NET Core is a cross-platform .NET framework for building modern cloud-based web applications. The various parts of .NET Core are maintained in different GitHub repositories. These repositories typically use the **MIT** or **Apache 2.0** licenses.
+.NET is a cross-platform .NET framework for building modern cloud-based web applications. The various parts of .NET are maintained in different GitHub repositories. These repositories typically use the **MIT** or **Apache 2.0** licenses.
 
 https://dotnet.microsoft.com/platform/open-source
 

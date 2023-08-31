@@ -62,7 +62,7 @@ You can invoke the tool using the following command:
 dotnet-ef Tool 'dotnet-ef' 
 ```
 
-### Install Nodejs
+### Install Node.js
 
 Follow instructions at [https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/)
 

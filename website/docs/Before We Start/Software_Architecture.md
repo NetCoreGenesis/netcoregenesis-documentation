@@ -13,7 +13,7 @@ If you’re required to start building a scalable monolithic or microservice inf
 
 **Sample Version:** *3.2.1*
 
-Major = 3 (.NET Core)
+Major = 3 (.NET)
 
 Minor = 2 (Features)
 

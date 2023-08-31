@@ -51,7 +51,7 @@ You should see something like this. [![](https://netcoregenesis.com/images/docum
 
 > We assume that you use Visual Studio as IDE.
 
-**i)** Open your .Net Core solution which is **{Your_Application_Name}.sln** in Visual Studio
+**i)** Open your .NET solution which is **{Your_Application_Name}.sln** in Visual Studio
 
 **ii)** Right click on **{Your_Application_Name}** solution and click "Set Startup Projects..."
 [![](https://netcoregenesis.com/images/documentation/Visual_Studio_set_start_up_projects.png)](https://netcoregenesis.com/images/documentation/Visual_Studio_set_start_up_projects.png)
@@ -102,7 +102,7 @@ Password: 123456
 
 ## Log Folders and Files
 
-**For .Net Core Solution logs**
+**For .NET Solution logs**
 
 ```
 {Your_Application_Name}/Admin/Admin.Svc/Logs

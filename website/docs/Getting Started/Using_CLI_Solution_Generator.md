@@ -90,13 +90,13 @@ Password:
 If you see each one is checked, you’re ready to go.
 ```cs
 Checking Dependencies...
-✔  Dotnet SDK 3.1+ (Required)
-✔  EF Core Command-line Tools 3.0+ (Required)
+✔  Dotnet SDK 7.0+ (Required)
+✔  EF Core Command-line Tools 5.0+ (Required)
 ✔  npm or yarn (Required) 
 ✔  Docker (Optional)
 ✔  Docker Compose (Optional)
 ✔  git (Optional)
-✔  Node.js >=10,<16 (Optional)   
+✔  Node.js 10.14.0+ (Optional)   
 ```  
 _** Version numbers are representational. Please check [Prerequisites](Before%20We%20Start/Prerequisites.md)_
 

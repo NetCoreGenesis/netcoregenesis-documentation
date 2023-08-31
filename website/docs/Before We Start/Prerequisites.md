@@ -7,14 +7,14 @@ sidebar_label: Prerequisites
 
 ## Backend
 
-- .NET Core SDK 3.1+ [Click to install](https://dotnet.microsoft.com/download/dotnet-core)
-- EF Core Tools [Click to install](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet)
+- .NET SDK 7.0+ [Click to install](https://dotnet.microsoft.com/download/dotnet-core)
+- EF Core Tools 5.0+ [Click to install](https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/dotnet)
 - Git [Click to install](https://git-scm.com/download/)
 - Windows, MacOS, Linux (almost all distros) operating systems
 
 ## UI - Frontend
 
-- NodeJS 10.14.0+  [Click to install](https://nodejs.org/)
+- Node.js >=10,<16 [Click to install](https://nodejs.org/)
 - NPM or YARN *(Yarn is strongly recommended)* [Click to install Yarn](https://yarnpkg.com/lang/en/docs/install)
 - Xcode Command Line Tools (for Mac)
 - Visual Studio Build Tools (for Windows)

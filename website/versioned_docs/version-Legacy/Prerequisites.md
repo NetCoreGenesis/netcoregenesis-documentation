@@ -14,7 +14,7 @@ sidebar_label: Prerequisites
 
 ## UI - Frontend
 
-- NodeJS 10.13.0+  [Click to install](https://nodejs.org/)
+- Node.js >=10,<16 [Click to install](https://nodejs.org/)
 - NPM or YARN *(Yarn is strongly recommended)* [Click to install Yarn](https://yarnpkg.com/lang/en/docs/install)
 - Xcode Command Line Tools (for Mac)
 - Visual Studio Build Tools (for Windows)

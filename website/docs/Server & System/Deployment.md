@@ -46,7 +46,7 @@ Follow instructions at [Frontend App Deployment](Server_Setup_Deployment.md#ii-f
 
 
 
-## 3) Backend Deployment (.Net Core)
+## 3) Backend Deployment (.NET)
 
 <Tabs
     defaultValue="IIS"
@@ -59,14 +59,14 @@ Follow instructions at [Frontend App Deployment](Server_Setup_Deployment.md#ii-f
 
 - Please follow Microsoft's instructions in official web site.
 
-https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?view=aspnetcore-3.1#create-the-iis-site
+https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?view=aspnetcore-7.0#create-the-iis-site
 </TabItem>
 
 <TabItem value="Nginx">
 
 - Follow instructions at [Backend App Deployment](Server_Setup_Deployment.md#i-backend-app)
 
-https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-3.1
+https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-7.0&tabs=linux-ubuntu
 
 </TabItem>
 </Tabs>
@@ -74,4 +74,4 @@ https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=as
 > An ASP.NET Core app runs with an in-process HTTP server implementation, namely Kestrel. 
 > Kestrel server is the default, cross-platform HTTP server implementation. 
 > To host the applications without a web server and to use Kestrel, follow the instructions below
->> https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/?view=aspnetcore-3.1&tabs=windows
+>> https://learn.microsoft.com/en-us/aspnet/core/fundamentals/servers/?view=aspnetcore-7.0&tabs=windows

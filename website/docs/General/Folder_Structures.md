@@ -5,7 +5,7 @@ title: Folder Structures
 sidebar_label: Folder Structures
 ---
 
-## Backend (.Net Core)
+## Backend (.NET)
 ### Monolithic Solution
 | Overall | API  | Data |
 |--|--|--|
