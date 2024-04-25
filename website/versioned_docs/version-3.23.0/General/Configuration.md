@@ -61,6 +61,9 @@ Find details in [Distributed Cache](Distributed_Cache.md)
 
 `SymmetricKey` to be used for the symmetric algorithm. The key size must be 128, 192, or 256 bits.
 
+**Hashing Algorithms**: SHA-256, CRC-32 and MD5 <br>
+**Encryption Algorithm**: AES
+
 > Data encrypted with a key can only be decrypted with the same key.
 
 > *All secrets are automatically generated for each environment by Solution Generator.*
